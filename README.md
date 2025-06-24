@@ -10,3 +10,6 @@
 *DURATION*: 8 WEEKS
 
 *MENTOR*: NEELA SANTHOSH KUMAR
+
+## Objective:
+
