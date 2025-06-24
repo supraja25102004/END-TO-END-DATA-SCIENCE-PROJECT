@@ -18,14 +18,23 @@ Develop a model that predicts house prices based on numerical features (area, nu
 ## Folder Structure:
 
 house_price_project/
+
 ├── app/
+
 │ └── main.py # FastAPI app
+
 ├── data/
+
 │ └── housing.csv # Sample dataset
+
 ├── model/
+
 │ └── model.joblib # Trained ML model (generated)
+
 ├── train_model.py # Script to train and save the model
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ##  Workflow:
