@@ -159,6 +159,31 @@ ReDoc: http://localhost:8000/redoc
 
     pip install -r requirements.txt
 
+#### Start FastAPI App:
+
+Start the API server:
+
+    uvicorn app.main:app --reload
+
+## What Each Package Does:
+
+*fastapi*->Web framework to create the REST API
+
+*uvicorn*->ASGI server to run the FastAPI app
+
+*scikit-learn*->Machine learning model training and prediction (Linear Regression)
+
+*pandas*->Data loading and manipulation
+
+*joblib*->Saving and loading the trained model efficiently
+
+*numpy*->Handling numerical data (e.g., converting input into arrays for model)
+
+## OUTPUT:
+
+
+
+
 
 
 
